@@ -52,7 +52,7 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: [@Elijah](https://github.com/Elijahdre)
 - Twitter: [@Kingglijah](https://twitter.com/kingglijah)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/elijah-odjegba-862708179/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/elijah-odjegba/)
 
 ## 🤝 Contributing
 
